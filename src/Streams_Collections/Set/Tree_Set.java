@@ -10,7 +10,7 @@ public class Tree_Set {
         // TODO code application logic here
         TreeSet<String> setTree = new TreeSet<>();
         
-        //insere na ordem seguindo a lógica de uma árvore binária
+        //insere na ordem 
         setTree.add("Jean");
         setTree.add("Lucas");
         setTree.add("Matheus");
