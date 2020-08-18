@@ -39,7 +39,10 @@ public class exemploStreamAPI {
         );
         
         System.out.println("Retorna o 5 primeiros elementos: "+
-                listaAluno.stream().limit(4).collect(Collectors.toList()));
+                listaAluno.stream().limit(4).collect(Collectors.toList())
+        );
+        
+        
         
     }
 }
